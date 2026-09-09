@@ -9,7 +9,6 @@ Repository นี้เป็นส่วนหนึ่งของกิจก
 
 ## 📌 ภาพรวมโครงการ
 ศึกษาหลักการทำงานของ REST API, สถาปัตยกรรม Client-Server, โครงสร้าง HTTP Methods, Headers, Request Body และการแปลความหมายของ HTTP Status Codes โดยใช้โปรแกรม **Postman Desktop** ทดสอบกับ Mock API สาธารณะจาก [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
-
 ##รายการคำขอที่ทดสอบ (CRUD Operations)
 
 | Method | Request Name | Endpoint | รายละเอียด / ผลลัพธ์ |
